@@ -2,3 +2,7 @@ c
 
 python
 html
+
+{
+scripting
+}
